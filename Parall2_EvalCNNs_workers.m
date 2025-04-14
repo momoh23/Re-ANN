@@ -1,4 +1,5 @@
-% @author M. R2024b 
+@author M.Kentour R2024b 
+
 % 1. Load MRI Dataset
 load('mri.mat'); % Loads the mri data
 % 2. Preprocess the Data
