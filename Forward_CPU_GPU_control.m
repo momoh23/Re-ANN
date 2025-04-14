@@ -1,4 +1,4 @@
-% @ author M.Kentour R2024b v.
+@ author M.Kentour R2024b v.
 
 % 1. Load MNIST Dataset
 [trainImages, trainLabels] = digitTrain4DArrayData;
