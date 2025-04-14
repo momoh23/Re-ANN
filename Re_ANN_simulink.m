@@ -1,4 +1,6 @@
-% MATLAB Simulink R2024b: Parallel PID Time Controller for ANN Model (Corrected)
+@author M.Kentour 
+
+% R2024b v. Parallel PID Time Controller for ANN development
 
 % 1. Create a new Simulink Model
 new_system('ParallelANNController');
