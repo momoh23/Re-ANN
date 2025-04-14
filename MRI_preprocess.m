@@ -1,5 +1,5 @@
  
-% @ author M.Kentour R2024b v.
+@ author M.Kentour R2024b v.
 
 % 1. Load the MRI Dataset
 load('mri.mat'); % Loads D, map
